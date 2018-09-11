@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "914927683372",
+    "firebase_url": "https://igoviya-20284.firebaseio.com",
+    "project_id": "igoviya-20284",
+    "storage_bucket": "igoviya-20284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914927683372:android:75ecd9dd4047a1f3",
+        "android_client_info": {
+          "package_name": "com.example.nishadi.igoviya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914927683372-esoi9su7ne92qc9hfug4om44g4bs4i47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmbjCY6hXurnSpbpnQk6PFijuapWDYd0M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
